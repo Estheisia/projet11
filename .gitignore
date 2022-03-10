@@ -1,0 +1,14 @@
+.settings/
+target/
+.project
+build/
+.classpath
+.factorypath
+/*.log
+.idea
+*.iml
+*.iwl
+*.ipr
+.java-version
+.DS_store
+qcmdb.*
